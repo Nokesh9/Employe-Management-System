@@ -1,0 +1,20 @@
+/* Home.css */
+.home-container {
+    /* background-image: url("https://example.com/background-image.jpg"); */
+    background-size: cover;
+    background-position: center;
+    /* Additional background properties as needed */
+}
+
+.full-width-image {
+    /* ... */
+}
+
+/* Define styles for other sections */
+.features {
+    /* ... */
+}
+
+.about {
+    /* ... */
+}

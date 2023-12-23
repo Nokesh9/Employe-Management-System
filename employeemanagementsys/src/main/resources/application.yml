@@ -1,0 +1,14 @@
+server:
+  port: 9192
+
+spring:
+  datasource:
+    username: root
+    password: Nani@4043
+    url: jdbc:mysql://localhost:3306/employeems
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      format_sql: true
